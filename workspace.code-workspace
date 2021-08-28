@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "/home/gitpod/codewiki"
+		},
+		{
+			"path": "wiki_config"
+		},
+		{
+			"path": "/home/gitpod/publisher"
+		},
+		{
+			"path": "/home/gitpod/code/crystaltools"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "/home/gitpod/.vmodules/despiegk/crystallib"
+		}
+	],
+	"settings": {}
+}
