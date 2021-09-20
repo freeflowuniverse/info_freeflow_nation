@@ -8,7 +8,7 @@ We love your feedback and we also feel we need to organize our chat better so th
 
 A few things to share with you:
 
-1. We want to be transparent, and we put much time into making everything open (look at the size of [our wikis](https://wiki.threefold.io/) and other repositories on [GitHub](https://github.com/threefoldfoundation)).
+1. We want to be transparent, and we put much time into making everything open (look at the size of [our wikis](https://library.threefold.me/) and other repositories on [GitHub](https://github.com/threefoldfoundation)).
 
 2. We love input, and we do everything we can to honour the feedback we receive by incorporating it into everything we do.
 
@@ -26,9 +26,9 @@ A few things to share with you:
 - [ThreeFold Farmer Chat](https://t.me/threefoldfarmers) on Telegram for farmers and farming enthusiasts.
 - [ThreeFold Grid Tester Community](https://t.me/threefoldtesting) on Telegram for early adopters and testers.
 - [ThreeFold Forum](https://forum.threefold.io/) for all questions and suggestions — best for meaningful conversations in an organized fashion.
-- Our wikis ([main](https://threefold.io/info/threefold), [cloud](https://threefold.io/info/cloud)) contain all our information. They are Github-based so that anyone can create pull requests for new information or suggested improvements. ([Main Wiki Github](https://github.com/threefoldfoundation/info_threefold), [Cloud Wiki Github](https://github.com/threefoldfoundation/info_cloud))
+- Our wikis ([main](threefold:threefold_home), [cloud](cloud:cloud_home) contain all our information. They are Github-based so that anyone can create pull requests for new information or suggested improvements. ([Main Wiki Github](https://github.com/threefoldfoundation/info_threefold), [Cloud Wiki Github](https://github.com/threefoldfoundation/info_cloud))
 
-7. Don't use this chat to:
+1. Don't use this chat to:
 
 - Sell something directly or indirectly.
 - Speculate about the token or usage of exchanges; we do not consider the token to be a product by itself.
