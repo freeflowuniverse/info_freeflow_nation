@@ -1,7 +1,7 @@
 
 # Circles Remuneration
 
-![](img/money.png)
+![](img/money.jpg)
 
 There are 3 ways people can be rewarded for effort done in our P2P circular economy.
 

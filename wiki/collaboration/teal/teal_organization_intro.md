@@ -2,9 +2,9 @@
 
 # Teal organization
 
-![](img/teal_org.png)
+![](img/teal_org.jpg)
 
-![](img/teal_overview.png)
+![](img/teal_overview.jpg)
 
 Teal organizations are decentralized into autonomous teams or groups. Power is shared and people are self-managing. Decisions are made independently – there is no centralized group telling people what to do. Decision-making independence is enhanced with visibility and advice. Trust replaces process. People’s whole selves (mind, body, heart, spirit) are welcomed. The organization evolves through an emergent process since everyone can make decisions. The metaphor for Teal is that of a living system. 
 

@@ -1,6 +1,6 @@
 # Story Pitfalls WWWW
 
-![](img/story_pitfalls.png)
+![](img/story_pitfalls.jpg)
 
 ## Stories that are too big
 

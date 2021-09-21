@@ -1,6 +1,6 @@
 # The five D's
 
-![](img/5balls.png)
+![](img/5balls.jpg)
 
 We believe that for every larger strategic or tactical topic in an organization we need to follow a certain evolution to mature that topic.
 

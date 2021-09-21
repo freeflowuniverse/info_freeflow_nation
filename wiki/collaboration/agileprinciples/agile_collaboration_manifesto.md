@@ -1,6 +1,6 @@
 # Manifesto for Agile Collaboration
 
-![](img/sky.png)
+![](img/sky.jpg)
 
 We are uncovering better ways of collaboration:
 

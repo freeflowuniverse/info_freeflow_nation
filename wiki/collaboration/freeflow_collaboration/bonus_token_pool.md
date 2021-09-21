@@ -2,7 +2,7 @@
 
 # Bonus Token Pool System
 
-![](img/bonus.png)
+![](img/bonus.jpg)
 
 In non circular organizations (companies) typically a share option pool is being used. We believe this is super hard to do in a new circular economy. 
 This document describes an alternative way

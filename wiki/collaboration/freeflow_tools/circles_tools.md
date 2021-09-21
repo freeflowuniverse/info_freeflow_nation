@@ -14,13 +14,13 @@
 
 see [https://circles.threefold.me/](https://circles.threefold.me/)
 
-![](img/circles_tool.png)
+![](img/circles_tool.jpg)
 
 ### Google Docs
 
 each circle corresponds to a folder on gdrive
 
-![](img/gdrive_circles.png)
+![](img/gdrive_circles.jpg)
 
 - All non-wiki docs need to go to the correct shared folder on Google Drive.
 - Do not keep docs which will be shared with other people in your own drive.
@@ -62,7 +62,7 @@ each circle corresponds to a folder on gdrive
 - Forum to let people ask questions and look gor answers
 - please all go to https://forum.threefold.io/ and use it
 
-![](img/forum_overview.png)
+![](img/forum_overview.jpg)
 
 ### Github
 

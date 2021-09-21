@@ -1,6 +1,6 @@
 ## Why Agile Collaboration
 
-![](img/howprojectsreallywork.png)
+![](img/howprojectsreallywork.jpg)
 
 
 Does this sound familiar?

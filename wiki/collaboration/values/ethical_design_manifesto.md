@@ -3,7 +3,7 @@
 Sell products, Not people.
 Make products that …
 
-![](img/ethical_design.png)
+![](img/ethical_design.jpg)
 
 ## Respect Human Rights
 

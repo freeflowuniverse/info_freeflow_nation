@@ -1,6 +1,6 @@
 # Circle Based (Peer2Peer) Collaboration
 
-![](img/collaboration.png)
+![](img/collaboration.jpg)
 
 We believe in "self-healing organizations" where circles (teams organized around topics) collaborate with each other. It's similar to how our own human body works. For instance: lungs provide oxygen but they need red-blood cells to move the oxygen to the rest of the body; the brain can tell us where to drive, but it needs hands and feet to operate the car.
 

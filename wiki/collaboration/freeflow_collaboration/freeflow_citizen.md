@@ -1,4 +1,4 @@
-![](img/freeflownation_intro.png)
+![](img/freeflownation_intro.jpg)
 
 # I want to be a FreeFlow Citizen
 

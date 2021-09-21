@@ -2,7 +2,7 @@
 
 ## Differences between Traditional Companies & Teal Organizations
 
-![](img/oldschool.png)
+![](img/oldschool.jpg)
 
 In Traditional Companies | Teal Organizations
 |---|---|
@@ -19,13 +19,13 @@ In most companies each person has exactly one job description. That description 
 *“Everything is vague to a degree you do not realize till you have tried to make it precise.”*
 — Bertrand Russell, The Philosophy of Logical Atomism
 
- ![](img/dif1.png)
+ ![](img/dif1.jpg)
 
  ## Distributed Authority Replaces Delegated Authority
 
  The agility that Teal provides comes directly from truly distributed authority. In traditional organizations, managers loosely delegate authority, but ultimately, their decisions always trump those they manage and everybody knows it. Any initiative outside the norm typically requires the boss’ approval, explicitly or implicitly. In Teal, authority is truly distributed and decisions are made locally by the individual closest to the front line. Teams are self-organized: they’re given a purpose, but they decide internally how to best reach it. In this way, Teal replaces the traditional hierarchy with a series of interconnected but autonomous teams (“circles”). This shift can dramatically increase a company’s capacity to adapt to changing conditions. It also allows those companies to have both alignment and agency without the typical pathologies of “leaderless” groups or autocratic micromanagement that slows everything down.
 
-![](img/dif2.png)
+![](img/dif2.jpg)
 
 ## Rapid Iterations Replace Big Re-orgs
 
@@ -40,5 +40,4 @@ In many companies, things are done a certain way because “that’s how we’ve
 
 *“One of the principles in Teal is to make the implicit explicit. A ton of it is about creating clarity — who’s in charge of what, who’s making what kind of decisions. And there’s also a system for defining that, and changing that, so it’s very flexible at the same time.”*
 — Evan Williams, Twitter & Medium co-founder
-
 
