@@ -1,7 +1,7 @@
 # Circle Roles & Responsibilities
 
 <!-- ![image](https://images.unsplash.com/photo-1464226066583-1bc72dd433a3?ixlib=rb-0.3.5&s=0e530a817608a163047730f955c592fc&auto=format&fit=crop&w=1650&q=80) -->
-![](img/collaboration_header.jpg)
+![](img/collaboration_header_.jpg)
 
 ### Each circle has different levels of contributors
 
@@ -113,5 +113,4 @@ Main responsibilities:
 ### What for technical people?
 
 - [Circles technical roles](circles_roles_technical)
-
 

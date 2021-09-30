@@ -1,6 +1,6 @@
 # Agile Principles
 
-![](img/agile_team_kids.jpg)
+![](img/agile_team_kids_.jpg)
 
 Agile principles are a way how work can be organized, originally it was mainly done for code collaboration, but we believe it can be easily adjusted to any team working together in an organization.
 

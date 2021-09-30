@@ -26,7 +26,7 @@ A few things to share with you:
 - [ThreeFold Farmer Chat](https://t.me/threefoldfarmers) on Telegram for farmers and farming enthusiasts.
 - [ThreeFold Grid Tester Community](https://t.me/threefoldtesting) on Telegram for early adopters and testers.
 - [ThreeFold Forum](https://forum.threefold.io/) for all questions and suggestions — best for meaningful conversations in an organized fashion.
-- Our wikis ([main](threefold:threefold_home), [cloud](cloud:cloud_home) contain all our information. They are Github-based so that anyone can create pull requests for new information or suggested improvements. ([Main Wiki Github](https://github.com/threefoldfoundation/info_threefold), [Cloud Wiki Github](https://github.com/threefoldfoundation/info_cloud))
+- Our wikis ([main](threefold:threefold_home), [cloud](threefold:cloud_home) contain all our information. They are Github-based so that anyone can create pull requests for new information or suggested improvements. ([Main Wiki Github](https://github.com/threefoldfoundation/info_threefold), [Cloud Wiki Github](https://github.com/threefoldfoundation/info_cloud))
 
 1. Don't use this chat to:
 

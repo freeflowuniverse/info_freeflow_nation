@@ -1,7 +1,7 @@
 ## Organization 4.0
 
 
-![image](img/org4_0.jpeg)
+![image](img/org4_0.jpg)
 
 
 

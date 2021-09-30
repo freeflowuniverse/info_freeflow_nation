@@ -1,6 +1,6 @@
 # Stories
 
-![](img/stories.jpeg)
+![](img/stories.jpg)
 
 Stories help us to organise our work. They need to comply with specific requirements to be effective.
 
