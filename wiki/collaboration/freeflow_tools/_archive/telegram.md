@@ -12,20 +12,20 @@ Is always organized around a group of people, NOT AROUND A TOPIC.
 
 - ```$shortcompanyname_org_$name```
 - Example groups:
-    - e.g. ```gig_org_dubai_team1```
-    - e.g. ```gig_org_marketing```
-    - e.g. ```gig_org_products```
-    - e.g. ```gig_org_sales```
-    - e.g. ```gig_org_internalit```
-    - e.g. ```gig_org_development```
-    - e.g. ```gig_org_research```
-    - e.g. ```gig_org_proddelivery```: e.g. hardware & shipments of projects
-    - e.g. ```gig_org_qa```: quality assurance in broad sense
-    - e.g. ```gig_org_operations``: team which keeps our systems up & running in broad sense
-    - e.g. ```gig_org_admin```
-    - e.g. ```gig_org_finance```
-    - e.g. ```gig_org_legal```
-    - e.g. ```gig_org_funding```
+    - e.g. ```tf_org_dubai_team1```
+    - e.g. ```tf_org_marketing```
+    - e.g. ```tf_org_products```
+    - e.g. ```tf_org_sales```
+    - e.g. ```tf_org_internalit```
+    - e.g. ```tf_org_development```
+    - e.g. ```tf_org_research```
+    - e.g. ```tf_org_proddelivery```: e.g. hardware & shipments of projects
+    - e.g. ```tf_org_qa```: quality assurance in broad sense
+    - e.g. ```tf_org_operations``: team which keeps our systems up & running in broad sense
+    - e.g. ```tf_org_admin```
+    - e.g. ```tf_org_finance```
+    - e.g. ```tf_org_legal```
+    - e.g. ```tf_org_funding```
 
     - Normally the name used is the same as the name of the git repo
 
@@ -34,7 +34,7 @@ Is always organized around a group of people, NOT AROUND A TOPIC.
 
 ## Product
 
-- ```$shortcompanyname_product_$name```, e.g. ```gig_product_jumpscale```
+- ```$shortcompanyname_product_$name```, e.g. ```tf_product_jumpscale```
 - Used for
     - all communication around this product group
     - calling for product stakeholder meetings (PSM)
@@ -44,7 +44,7 @@ Is always organized around a group of people, NOT AROUND A TOPIC.
 
 ## Project
 
-    - E.g. ```gig_proj_mauritius```
+    - E.g. ```tf_proj_mauritius```
     - Normally the name used is the same as the name of the EE repo
 - Used for
     - Communication around such a project
@@ -56,7 +56,7 @@ IMPORTANT: if a project exists, this is more priority than the communication in 
 
 ## Support
 
-- ```$shortcompanyname_support```, e.g. ```gig_support```
+- ```$shortcompanyname_support```, e.g. ```tf_support```
 - Used for
     - Any customer isue which deserves attention from more than 1 person
     - Escalations
