@@ -15,7 +15,7 @@ It is a movement that helps in reconstructing the link between us and nature, be
 
 # Technology
 
-Built on top of the new peer-to-peer internet, [ThreeFold Grid](sdk:grid_intro), it provides us with the possibily to scale up our solution and, thus, providing a complete user experience in the a fully secure, private and sustainable environment while being data sovereign.
+Built on top of the new peer-to-peer internet, [ThreeFold Grid](threefold:grid_intro), it provides us with the possibily to scale up our solution and, thus, providing a complete user experience in the a fully secure, private and sustainable environment while being data sovereign.
 
 
 <p align="center">
@@ -27,5 +27,4 @@ Learn more:
 
 - [Capabilities](capabilities)
 - [Experiences](experiences_intro_freeflow)
-
 

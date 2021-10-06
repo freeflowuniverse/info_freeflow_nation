@@ -2,7 +2,7 @@
 
 ![](img/ffspace.png)
 
-FreeFlow Space is a virtual environment designed for creativity and self-expression. It is an area where artists with vast inspirations showcase their artworks. It is an experience for creation, expression, and learning where art and education cross paths. Built on top of the [ThreeFold Grid](sdk:grid_intro), the space is also dedicated to show to the users how real peer-to-peer communication works on the people's internet and how digitally the gift of information and knowledge can be achieved. 
+FreeFlow Space is a virtual environment designed for creativity and self-expression. It is an area where artists with vast inspirations showcase their artworks. It is an experience for creation, expression, and learning where art and education cross paths. Built on top of the [ThreeFold Grid](threefold:grid_intro), the space is also dedicated to show to the users how real peer-to-peer communication works on the people's internet and how digitally the gift of information and knowledge can be achieved. 
 
 ## Preview
 
@@ -42,4 +42,3 @@ Downloading links as per Operating System:
 3. Now, you are inside the FreeFlow Space. 
 
 > Please note that the downloaded version is still in Beta mode.
-
