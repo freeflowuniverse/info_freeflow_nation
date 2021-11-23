@@ -55,7 +55,7 @@ If any of the following applies to you then you are still a pup in P2P collabora
 > Some will believe why is all of this needed, why can I just not be trusted.<BR>
 > I am sure your company does trust you or you would not be working there.<BR>
 > You are not working for a pyramid company, this means full transparency and some discipline is needed to allow P2P collaboration to function. <BR>
-> **[Read more about this here](stars_vs_spheres)**
+> [**Read more about this here**](stars_vs_spheres)
 
 - A wolf is not afraid
 	- dares to be 100% transparent
