@@ -1,0 +1,3 @@
+# FreeFlow Gamification
+
+FreeFlow will use human-focused design and gamification to encourage healthy engagement, fun, usability and efficient function of the network. When users will interact with each other and within the network through the transcript, users will be rewarded with badges which can be turned into financial rewards and voting privileges. As such, the gamification inside the network will be created to ensure an outcome that is both exciting and productive for users.
