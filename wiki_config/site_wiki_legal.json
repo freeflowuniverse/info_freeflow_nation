@@ -1,9 +1,9 @@
 {
 	"name": "legal",
 	"git_url": "git@github.com:threefoldfoundation/info_legal/tree/development/wiki",
-	"pull": false,
+	"pull": true,
 	"reset": false,
-	"cat": 0,
+	"cat": "wiki",
 	"domains": [
 		"legal.threefold.io",
 		"legal-info.threefold.io",

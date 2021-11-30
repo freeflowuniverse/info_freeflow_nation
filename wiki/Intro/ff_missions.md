@@ -1,0 +1,11 @@
+# Our Mission
+
+FreeFlow's mission is to build a safe environment and ecosystem, accessible by all, in which trustful and humanized interactions will prevail and our connection with our environment will be restored.
+
+We believe that information and knowledge is the driver of prosperity, happiness, and the advancement of human civilization. Every person on the planet should be able to have access to the internet and be able to participate and share equitably in the ecosystem. However, this is not the case where accessibility to truthful information, the expansion of the different kinds of wealth, and its distribution throughout the whole world suffer from huge inefficiencies. This hinders individual learning, personal development, earth regeneration, human capital expansion and negatively impacts society and the global economy. Too many exploitative intermediaries with data-centric business models now act as value extraction machines. These 'middle-men' generate massive wealth for their shareholders, but also perpetuate income inequality and social exclusion, destabilize democratic institutions, sow mistrust, and put at risk the foundations of global peace for which our ancestors have fought and died.
+
+Through FreeFlow, we want to help restore trust, human-to-human, and human-to-nature connection, collaboration, equality, and fairness. We intend to remove the obstacles and the inefficiencies in today's economy by using new and powerful technologies referred to as Web 4.0 - the Web that prevails a true peer-to-peer infrastructure helping to directly connect people with each other. We intend to do this through a unique digital identity, disintermediation, and self-sovereign data ownership. This is the reason why we have created the FreeFlow Foundation.
+
+Learn more about FreeFlow Foundation [here](https://freeflow.io).
+
+Our goal is to use this new technology to scale our solution for individuals to connect, create, share, learn and teach in a fully secured and private environment. The FreeFlow Foundation will oversee the FreeFlow ecosystem and award grants to those who wish to help co-create a complete holistic solution and thus expand our utility.
