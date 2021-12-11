@@ -1,18 +1,17 @@
 {
-	"name": "legal",
-	"git_url": "git@github.com:threefoldfoundation/info_legal/tree/development/wiki",
+	"name": "digitaltwin",
+	"git_url": "git@github.com:threefoldfoundation/info_digitaltwin/tree/development/wiki",
 	"pull": false,
 	"reset": false,
 	"cat": 0,
 	"domains": [
-		"legal.threefold.io",
-		"legal-info.threefold.io",
-		"legal-wiki.threefold.io"
+		"info.mydigitaltwin.io",
+		"wiki.mydigitaltwin.io"
 	],
 	"descr": "",
 	"groups": [],
 	"acl": [],
-	"trackingid": "17",
+	"trackingid": "13",
 	"opengraph": {
 		"title": "",
 		"description": "",
