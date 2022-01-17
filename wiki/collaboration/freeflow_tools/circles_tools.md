@@ -40,7 +40,7 @@ each circle corresponds to a folder on gdrive
 - You can get email aliases on any of the organizations e.g. ThreeFold_Token, etc. Learn more about how to add and use aliases [here](https://support.google.com/mail/answer/22370?hl=en)
 - Ensure you use the right alias and signature when sending an email.
 
-### Telegram: chat
+### Telegram: chat, now we are moving away to matter most (e.g. news.threefold.me)
 
 - Try to organise your conversations into well-ordered and understandable topics.
 - Telegram is available for Phones, Tablets and PC/Laptops making it easy to keep track.
@@ -78,3 +78,9 @@ each circle corresponds to a folder on gdrive
 
 - The Threefold movement has its own GIT platform, this can be used for more internal documents and repos.
 - E.g. https://docs.grid.tf/
+
+### mucommander
+
+https://www.mucommander.com/
+
+Very useful to learn how to use this one, super productive once you get the hang of it.

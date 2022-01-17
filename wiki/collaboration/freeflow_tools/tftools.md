@@ -8,10 +8,11 @@
 
 ### if coordination/business
 
-- circles tool
+- circles tools
 - integrates with threefold connect
 - we will make better reporting tool (has been promised for a long time)
-- how to use our circles tool see [howto_circles_projects](circles_tools)
+
+> how to use our circles tool see [howto_circles_projects](circles_tools)
 
 ## content 
 
@@ -36,25 +37,14 @@ remark
 - can edit directly using github or [docs.threefold.me](http://docs.grid.tf/)
 - [docs.threefold.me](http://docs.grid.tf/) is used when really private and cannot be on MS owned github
 
-### cryptpad
+### cryptpad (OLD)
 
-> every document for customer which is not wiki or proposal or legal or marketing <BR>
-> everything which needs to be more private/secure
+> CRYPTPAD NO LONGER NEEDED, WE CAN NOW USE GDOC AND USE DOCSEND FOR SHARING WITH CUSTOMERS
 
-When not to use cryptpad
-
-- document needs to be nicely formatted (pdf)
-  - presentations + marketing docs which need visual pleasing ...
-- contracts in gdrive (contracts not in old school office !!!!!!)
-
-remark
-
-- is also very usable for collaborating on e.g. a markdown doc before copying to cryptpad
-- ALWAYS MAKE LINKS BETWEEN GDRIVE/CRYPTPAD where needed !!! e.g. on funnel issue or other story
+make sure docs are on right location, we had cryptpad to share with customers, but because we can do over docsend for now ok.
 
 ### gdrive
 
-Any other document
 
 - [Link to the root of the Circles Drive](https://drive.google.com/drive/folders/1ww8CF3zPCVKhlyAhWO9WCqZZoHhA2hBl)
 <!-- - [READ THIS IMPORTANT HOWTO](strategy:tfhowto_gdrive) -->

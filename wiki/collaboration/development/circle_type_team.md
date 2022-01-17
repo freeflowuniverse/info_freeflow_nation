@@ -21,6 +21,8 @@ The used swimlanes:
     - Everything which gets in the team Kanban on 'Accepted' needs to be resolved < 1 week from the day it was attached to team Kanban
 - ```In progress```
     - The issue is being worked on
+- ```Slow Cooker```
+    - We are working on it but it goes slower
 - ```Blocked```       
     - We are using the Kanban way of thinking; something in this swimlane needs to be resolved asap, can be e.g. a question
     - Means issue cannot be completed, attention from e.g. stakeholders is needed

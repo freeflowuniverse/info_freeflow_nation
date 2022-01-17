@@ -28,7 +28,7 @@
     - [Teal Definitions](@teal_definitions)
     - [Differences with Companies](@teal_differences_with_companies)
     - [Teal Org Culture Manifest](@teal_org_culture_manifest)
-- [FreeFlow Tools](@freeflow_tools)
+- [ThreeFold/FreeFlow Tools](@freeflow_tools)
     - [Circles Tools](@circles_tools)
     - [Github Content Rules](@github_content_rules)
     - [Markdown](@markdown)
