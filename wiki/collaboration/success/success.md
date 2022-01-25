@@ -1,4 +1,4 @@
-## Success
+# Success
 
 At ThreeFold we believe the following are the main qualities required to lead our project to success:
 

@@ -1,13 +1,13 @@
 ![](img/project_team.png)
 
-# project vs team
+# Project vs Team
 
 - team: people, links to the stories in project, product, ...
 - projects = project,product,funnel, ...= content, the thing we have to work on
 
 > when we speak about project in this doc we mean project, product, funnel ...
 
-## purpose of team
+## Purpose of the team
 
 - show who is inside & their roles
 - grow/nurture a group, of "humans" working together
@@ -20,7 +20,7 @@
 - teams are used to organize priorities, not define the things to do
 - [READ MORE ABOUT TEAM HERE](circle_type_team)
 
-## purpose of project, funnel, milestones, product...
+## Purpose of project, funnel, milestones, product...
 
 - discuss a deliverable, objective
 - expose this content to customer, partner, world, ...
@@ -31,8 +31,8 @@
 - the project coordinator needs to manage a project, not team
 - if the project coordinator needs work to be done or resources, coordination with relevant teams can be required
 
-## owner <> teamlead
+## Owner <> Team lead
 
-- [owner](owner)
-- [team_lead](team_lead)
+- [Owner](owner)
+- [Team lead](team_lead)
 
