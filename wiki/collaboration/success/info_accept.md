@@ -2,7 +2,7 @@
 
 Its important as a group we accept following docs and we get agreement on the content.
 
-- [Success for a startup is...](success)
+- [Success for a startup is...](threefold_internal:success)
 - [Vision / Positioning ThreeFold](threefold_internal:tf_vision_position)
 - [Tokenomics 3.0](threefold:farming_reward)
 - Doe we agree with strategy as outlined in: [TFTech Funding Round 2021](threefold_internal:fundinground_2021)
