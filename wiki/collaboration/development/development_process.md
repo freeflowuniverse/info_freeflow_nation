@@ -33,7 +33,7 @@ For each repository (component) there is a list of issues which is dealt with li
 
 #### Labels
 
-see [issue_labels](issue_labels.md)
+see [issue_labels](issue_labels)
 
 #### Branch Names in Title
 
@@ -144,4 +144,3 @@ Link back to used circles on https://circles.threefold.me/
 - verification on a story is done in 2 steps : 
    - Story moved to verification once code complete
    - When relevant: Verification is done on story branch in case it hadn't been merged to the development branch and code moved to development when verification OK, regression testing is running automated with the ZeroCi and report should be green before release
-
