@@ -1,3 +1,2 @@
-- [FreeFlow Nation](http://www.freeflownation.org/)
-- [Alliance for a Conscious Internet](https://threefold.io/aci)
-- [Digital Twin](https://threefold.io/twin)
+- [ThreeFold](https://www.threefold.io)
+- [OurWorld](https://www.ourworld.tf)

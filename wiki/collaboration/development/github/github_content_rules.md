@@ -25,5 +25,5 @@ We do whatever we can to store everything in Github. This gives us following adv
 
 - All issues/feature requests/stories/questions to do with __content__ (product, info, website, ...) goes onto a github repo.
 
-[IMPORTANT DOCS ABOUT HOW TO COLLABORATE IN GITHUB](https://github.com/threefoldtech/home/tree/master/contribution)
+[IMPORTANT DOCS ABOUT HOW TO COLLABORATE IN GITHUB](https://github.com/threefoldtech/home/tree/master/wiki/contribution)
 
