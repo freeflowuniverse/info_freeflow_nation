@@ -3,7 +3,7 @@
 ThreeFold Peer-to-Peer Cloud is a peer-to-peer network of Compute and Storage that is integrated and compatible with the most used developer tools and formats. It uses autonomous and peer-to-peer technology to provide the most decentralized, secure by using a dispersed storage algorithm, and efficient infrastructure to build and store information. On the ThreeFold Peer-to-Peer Cloud, users store and run their files directly on Zero-OS. All transactions on the ThreeFold Grid are done via **ThreeFold Token (TFT)**.
 
 
-Learn more about all the different technology components behind ThreeFold [here](https://library.threefold.me/info/threefold#/tfgrid/threefold__technology).
+Learn more about all the different technology components behind ThreeFold [here](threefold:technology).
 
 ## Why using ThreeFold Technology
 
