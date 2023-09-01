@@ -1,0 +1,24 @@
+{
+	"name": "digitaltwin",
+	"git_url": "git@github.com:threefoldfoundation/info_digitaltwin/tree/development/wiki",
+	"pull": false,
+	"reset": false,
+	"cat": 0,
+	"domains": [
+		"info.mydigitaltwin.io",
+		"wiki.mydigitaltwin.io"
+	],
+	"descr": "",
+	"groups": [],
+	"acl": [],
+	"trackingid": "13",
+	"opengraph": {
+		"title": "",
+		"description": "",
+		"url": "",
+		"type_": "",
+		"image": "",
+		"image_width": "",
+		"image_height": ""
+	}
+}

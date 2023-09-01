@@ -1,0 +1,3 @@
+# Capabilities
+
+FreeFlow Community has developed a unique version of all main capabilities you need to interconnect with your friends. Each of the interactions within FreeFlow happens thanks to these capabilities that every FreeFlow Self has: the ability to speak on a peer-to-peer way, stream (watch and share videos or music), see others through video conferencing, exchange in the marketplace, store value on your digital wallet and many more. All of these capabilities are unique to you and can be utilized by the experiences.
