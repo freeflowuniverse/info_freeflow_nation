@@ -14,7 +14,7 @@ See [project vs team explanation](project_vs_team)
 
 You need all
 
-- [X] you understand our [Success for a startup is...](threefold_internal:success) and 100% agree with content
+- [X] you understand our [Success for a startup is...](success) and 100% agree with content
 - [X] you know difference between iterative and waterfall method, and see why iterative is only way, iterative  = agile
 - [X] you are fluent with github and everything around (markdown)
 - [X] you are not afraid to edit content on github & create stories

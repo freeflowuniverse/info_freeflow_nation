@@ -7,7 +7,7 @@
     - [Bonus Pool](@bonus_token_pool)
     - [Circles Remuneration](@circles_remuneration)
     - [Circles Roles](@circles_roles)
-- [Success Is](threefold_internal:success)
+- [Success Is](success)
 - [Development Process](development_process)
   - [Stories](@stories)
   - [Stories pitfalls](@story_pitfalls)
